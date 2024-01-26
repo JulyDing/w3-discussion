@@ -1,0 +1,28 @@
+body{
+    color: black;
+    background-color: #f0dbdb;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    text-align: center;
+}
+h2,h3{
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    color:black;
+}
+p{
+    height: max-content;
+}
+img{
+    border: solid black 5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+li{
+    display:inline-block;
+    margin-left: 50px;
+    color:blue
+}
